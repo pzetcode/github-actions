@@ -1,2 +1,2 @@
 Workflows:
-- [Continuous Integration](./.github/workflows/ci.yaml)
+- [Continuous Integration](./.github/workflows/CI.yaml)
