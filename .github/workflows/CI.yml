@@ -10,3 +10,5 @@ jobs:
         - name: Script
           run: ./script.ps1
           shell: pwsh
+          env: 
+              MyVariable: 'ello orld'
